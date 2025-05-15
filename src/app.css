@@ -1,0 +1,18 @@
+/* See https://colorhunt.co/palette/5409da4e71ff8dd8ffbbfbff */
+
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+
+:root {
+    --bold-blue:#5409DA;
+    --medium-blue:#4E71FF;
+    --light-blue:#8DD8FF;
+    --cyan-color:#BBFBFF;
+    --primary-ft-weight:600;
+    --secondary-ft-weight:400;
+}
+
+body {
+    background-color:var(--cyan-color);
+    font-family:"Montserrat", Arial, Helvetica, sans-serif;
+    margin:0;
+}
